@@ -46,15 +46,44 @@ Aynı zamanda sürdürülebilir tarım konusunda bilgilendirmeyi hedefler.
 ---
 
 ## 📸 Uygulama Ekran Görüntüleri
+<h2>📸 Uygulama Ekran Görüntüleri</h2>
 
-| Özellik | Görsel |
-|---------|--------|
-| Ana Sayfa | ![Ana Sayfa](ana-ekrann.png) |
-| Hastalık Modeli Seçme | ![Bitki modelleri](bitki-detection-ana-ekran.png) |
-| Hastalık Tespiti Sonucu | ![Hastalık Tespiti](bitki-tahmin.png) |
-| Böcek Algılama | ![Böcek Tespiti](böcek_detection.png) |
-| Bilgilendirici İçerikler Ana Sayfa | ![İçerikler](öneriler-ana-ekran.png) |
-| Bilgilendirici İçerik sayfası | ![İçerikler](öneriler.png) |
+<table border="1" cellpadding="10">
+  <thead>
+    <tr>
+      <th>Özellik</th>
+      <th>Görsel</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Ana Sayfa</td>
+      <td><img src="ana-ekrann.png" alt="Ana Sayfa" width="300"></td>
+    </tr>
+    <tr>
+      <td>Hastalık Modeli Seçme</td>
+      <td><img src="bitki-detection-ana-ekran.png" alt="Bitki Modelleri" width="300"></td>
+    </tr>
+    <tr>
+      <td>Hastalık Tespiti Sonucu</td>
+      <td><img src="bitki-tahmin.png" alt="Hastalık Tespiti" width="300"></td>
+    </tr>
+    <tr>
+      <td>Böcek Algılama</td>
+      <td><img src="böcek-detection.png" alt="Böcek Tespiti" width="300"></td>
+    </tr>
+    <tr>
+      <td>Bilgilendirici İçerikler Ana Sayfa</td>
+      <td><img src="öneriler-ana-ekran.png" alt="İçerikler" width="300"></td>
+    </tr>
+    <tr>
+      <td>Bilgilendirici İçerik Sayfası</td>
+      <td><img src="öneriler.png" alt="İçerikler" width="300"></td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 
 
