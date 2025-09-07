@@ -41,7 +41,7 @@ Aynı zamanda sürdürülebilir tarım konusunda bilgilendirmeyi hedefler.
 ## 📊 Dataset & Modeller
 
 - 📂 Datasetler ve eğitilmiş modeller **Kaggle üzerinde paylaşılmıştır**:  
-  👉 [Dataset ve Modeller için Link](#) *(https://www.kaggle.com/models/yarenbi/apple-corn-grape-insect-potato-models)*
+  👉 *(https://www.kaggle.com/models/yarenbi/apple-corn-grape-insect-potato-models)*
 
 ---
 
@@ -53,6 +53,7 @@ Aynı zamanda sürdürülebilir tarım konusunda bilgilendirmeyi hedefler.
 | Hastalık Tespiti Sonucu | ![Hastalık Tespiti](images/disease_detection.png) |
 | Böcek Algılama | ![Böcek Tespiti](images/bug_detection.png) |
 | Bilgilendirici İçerikler | ![İçerikler](images/info.png) |
+
 
 
 
