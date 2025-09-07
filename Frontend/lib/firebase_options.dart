@@ -42,47 +42,47 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: '***YOUR API KEY ****',
-    appId: '1:243676341259:web:dd3c1fed250d0743e1930e',
-    messagingSenderId: '243676341259',
-    projectId: 'tarim-41e24',
-    authDomain: 'tarim-41e24.firebaseapp.com',
-    storageBucket: 'tarim-41e24.firebasestorage.app',
-    measurementId: 'G-HK5X89PKC3',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
+    measurementId: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCKtU0DCyagNDNs2DnbISkoTsDO45lcIck',
-    appId: '1:243676341259:android:86acfea7e35fba27e1930e',
-    messagingSenderId: '243676341259',
-    projectId: 'tarim-41e24',
-    storageBucket: 'tarim-41e24.firebasestorage.app',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '-',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDFiOlq-cRnuQLkIcIWoV01I6cHzo29JAk',
-    appId: '1:243676341259:ios:5d6280f71885333ae1930e',
-    messagingSenderId: '243676341259',
-    projectId: 'tarim-41e24',
-    storageBucket: 'tarim-41e24.firebasestorage.app',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '.app',
     iosBundleId: 'com.example.tarim',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDFiOlq-cRnuQLkIcIWoV01I6cHzo29JAk',
-    appId: '1:243676341259:ios:5d6280f71885333ae1930e',
-    messagingSenderId: '243676341259',
-    projectId: 'tarim-41e24',
-    storageBucket: 'tarim-41e24.firebasestorage.app',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: 't',
+    storageBucket: 't.app',
     iosBundleId: 'com.example.tarim',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBy1lOE8zFCgPw3tzsriTjf2Dae0TypdTY',
-    appId: '1:243676341259:web:de0c4430d844d2cae1930e',
-    messagingSenderId: '243676341259',
-    projectId: 'tarim-41e24',
-    authDomain: 'tarim-41e24.firebaseapp.com',
-    storageBucket: 'tarim-41e24.firebasestorage.app',
-    measurementId: 'G-76B5V3TJ3N',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: 't',
+    authDomain: '.firebaseapp.com',
+    storageBucket: '.firebasestorage.app',
+    measurementId: 'G-',
   );
 }
