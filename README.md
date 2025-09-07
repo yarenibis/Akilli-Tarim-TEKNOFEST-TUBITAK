@@ -49,10 +49,13 @@ Aynı zamanda sürdürülebilir tarım konusunda bilgilendirmeyi hedefler.
 
 | Özellik | Görsel |
 |---------|--------|
-| Ana Sayfa | ![Ana Sayfa](images/home.png) |
-| Hastalık Tespiti Sonucu | ![Hastalık Tespiti](images/disease_detection.png) |
-| Böcek Algılama | ![Böcek Tespiti](images/bug_detection.png) |
-| Bilgilendirici İçerikler | ![İçerikler](images/info.png) |
+| Ana Sayfa | ![Ana Sayfa](ana-ekrann.png) |
+| Hastalık Modeli Seçme | ![Bitki modelleri](bitki-detection-ana-ekran.png) |
+| Hastalık Tespiti Sonucu | ![Hastalık Tespiti](bitki-tahmin.png) |
+| Böcek Algılama | ![Böcek Tespiti](böcek_detection.png) |
+| Bilgilendirici İçerikler Ana Sayfa | ![İçerikler](öneriler-ana-ekran.png) |
+| Bilgilendirici İçerik sayfası | ![İçerikler](öneriler.png) |
+
 
 
 
