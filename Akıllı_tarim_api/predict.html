@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Yaprak/Böcek Tahmin</title>
+</head>
+<body>
+    <h2>📷 Görsel Yükle ve Tür Seç</h2>
+
+    <form action="/predict" method="post" enctype="multipart/form-data">
+        <label>Resim Yükle:</label><br>
+        <input type="file" name="file" accept="image/*" required><br><br>
+
+        <label>Tür Seç:</label><br>
+        <select name="crop_type" required>
+            <option value="apple">🍎 Elma</option>
+            <option value="corn">🌽 Mısır</option>
+            <option value="grape">🍅 Domates</option>
+            <option value="potato">🥔 Patates</option>
+            <option value="insect">🪲 Böcek</option>
+        </select><br><br>
+
+        <button type="submit">Tahmin Et</button>
+    </form>
+</body>
+</html>
